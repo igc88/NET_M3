@@ -1,0 +1,7 @@
+C:\Users\Iago\source\repos\igc88\NET_M3\bin\Debug\NET_M3.exe.config
+C:\Users\Iago\source\repos\igc88\NET_M3\bin\Debug\NET_M3.exe
+C:\Users\Iago\source\repos\igc88\NET_M3\bin\Debug\NET_M3.pdb
+C:\Users\Iago\source\repos\igc88\NET_M3\obj\Debug\NET_M3.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\NET_M3\obj\Debug\NET_M3.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\NET_M3\obj\Debug\NET_M3.exe
+C:\Users\Iago\source\repos\igc88\NET_M3\obj\Debug\NET_M3.pdb
