@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace NET_M3 {
     class Program {
         static void Main(string[] args) {
-            MLST1 e1 = new MLST1();
-            e1.fase1();
+            MLST2 e2 = new MLST2();
+            e2.init();
             
             Console.ReadKey();
         }
