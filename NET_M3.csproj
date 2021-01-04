@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MLST3.cs" />
     <Compile Include="MLST1.cs" />
     <Compile Include="MLST2.cs" />
     <Compile Include="Program.cs" />
